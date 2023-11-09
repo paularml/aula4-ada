@@ -24,10 +24,11 @@ automaticamente do controle de versão? Além disso, como você pode usar o stag
 para garantir que esses arquivos não sejam acidentalmente incluídos em commits, mesmo
 que você os tenha no diretório de trabalho?
 
-Configurando o .gitignore
-Para evitar problemas, estou abordando essa situação configurando o arquivo .gitignore. Este arquivo instrui o Git sobre quais arquivos e diretórios devem ser ignorados durante o rastreamento de alterações.
+
 
 # .gitignore
+Configurando o .gitignore
+Para evitar problemas, estou abordando essa situação configurando o arquivo .gitignore. Este arquivo instrui o Git sobre quais arquivos e diretórios devem ser ignorados durante o rastreamento de alterações.
 
 # Ignorar arquivos de configuração local
 config.local/
